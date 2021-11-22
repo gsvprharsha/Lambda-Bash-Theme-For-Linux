@@ -1,5 +1,5 @@
 # Lambda-Bash-Theme-For-Linux
-This script is a custom bash prompt inspired from Oh My ZSH Lambda Theme. In the future it will be made into a fully functional script for you to replace in "bashrc" file. 
+This script is a custom bash prompt inspired from Oh My ZSH Lambda Theme. The code is fully functional and can be replaced with your "bashrc" script.
 
 # Tested On
 
