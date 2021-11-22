@@ -3,7 +3,7 @@ This script is a custom bash prompt inspired from Oh My ZSH Lambda Theme. In the
 
 <h1>Tested On </h1>
 
-![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![BlackArch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <h1>How To Install</h1>
 1. Use the following command to download the code or you can copy it directly from github
