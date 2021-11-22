@@ -15,6 +15,3 @@ git clone https://github.com/gsvprharsha/Bash_Prompt.git
 4. Now replace the existing code with the code that you copied earlier
 
 Congratulations🥳🥳 Your prompt will change.
-
-<h1>Final Result</h1>
-![image](https://user-images.githubusercontent.com/63843351/142835320-ea3df5a2-c981-44b3-b0f4-8a76f712b33c.png)
