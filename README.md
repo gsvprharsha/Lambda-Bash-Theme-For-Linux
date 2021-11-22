@@ -6,10 +6,7 @@ This script is a custom bash prompt inspired from Oh My ZSH Lambda Theme. In the
 
 <h1>How To Install</h1>
 1. Use the following command to download the code or you can copy it directly from github
-git clone https://github.com/gsvprharsha/Bash_Prompt.git
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+git clone https://github.com/gsvprharsha/Bash_Prompt.git
 ```
