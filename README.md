@@ -9,7 +9,7 @@ This script is a custom bash prompt inspired from Oh My ZSH Lambda Theme. In the
 1. Use the following command to download the code or you can copy it directly from github
 
 ```
-git clone https://github.com/gsvprharsha/Bash_Prompt.git
+git clone https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux.git
 ```
 
 2. Copy the code from the bash.sh file
