@@ -17,3 +17,7 @@ git clone https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux.git
 4. Now replace the existing code with the code that you copied earlier
 
 Congratulations🥳🥳 Your prompt will change.
+
+# Final Result
+
+![Final Result](https://user-images.githubusercontent.com/63843351/142853112-43d01f81-b34f-4448-83b3-4c6c19107ba6.png)
